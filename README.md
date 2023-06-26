@@ -1,9 +1,9 @@
 # Attacking Pseudorandomness With Deep Learning
 
-Semester Project (Spring 2023) at LASEC Lab
+Semester Project (Spring 2023) at [LASEC](https://lasec.epfl.ch) Lab (EPFL)
 
-- Student: jean-baptiste.michel@epfl.ch
-- Supervisor: ritam.bhaumik@epfl.ch
+- Student: Jean-Baptiste Michel
+- Supervisor: Ritam Bhaumik
 
 ## Description
 
